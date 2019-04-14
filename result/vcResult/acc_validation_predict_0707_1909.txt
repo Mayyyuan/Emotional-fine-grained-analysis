@@ -1,0 +1,53 @@
+recycle number is 0
+the validation accuracy is 0.9771966666666667
+the validation accuracy is 0.9774033333333333
+the validation accuracy is 0.97832
+the validation accuracy is 0.9799166666666667
+the validation accuracy is 0.9819266666666666
+the validation accuracy is 0.9831066666666667
+the validation accuracy is 0.98521
+recycle number is 1
+the validation accuracy is 0.9869433333333333
+the validation accuracy is 0.9871866666666667
+the validation accuracy is 0.9879433333333333
+the validation accuracy is 0.9879966666666666
+the validation accuracy is 0.98892
+the validation accuracy is 0.9892133333333333
+recycle number is 2
+the validation accuracy is 0.98965
+the validation accuracy is 0.9898666666666667
+the validation accuracy is 0.9899333333333333
+the validation accuracy is 0.9902533333333333
+recycle number is 3
+the validation accuracy is 0.9904833333333334
+the validation accuracy is 0.99088
+the validation accuracy is 0.9909166666666667
+the validation accuracy is 0.9910266666666666
+recycle number is 4
+the validation accuracy is 0.9910766666666667
+the validation accuracy is 0.9913833333333333
+the validation accuracy is 0.9914266666666667
+the validation accuracy is 0.9916466666666667
+the validation accuracy is 0.99171
+recycle number is 5
+the validation accuracy is 0.9919833333333333
+the validation accuracy is 0.99201
+the validation accuracy is 0.9920866666666667
+the validation accuracy is 0.99212
+recycle number is 6
+the validation accuracy is 0.9922133333333333
+the validation accuracy is 0.9922966666666667
+the validation accuracy is 0.9924233333333333
+recycle number is 7
+the validation accuracy is 0.9925533333333333
+the validation accuracy is 0.9926166666666667
+the validation accuracy is 0.99263
+recycle number is 8
+the validation accuracy is 0.9927066666666666
+the validation accuracy is 0.9927366666666667
+the validation accuracy is 0.9927933333333333
+recycle number is 9
+the validation accuracy is 0.99285
+the validation accuracy is 0.9928833333333333
+the validation accuracy is 0.9929333333333333
+the validation accuracy is 0.9930866666666667

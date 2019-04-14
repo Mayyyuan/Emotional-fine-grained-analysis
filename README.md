@@ -1,7 +1,15 @@
 # Emotional-fine-grained-analysis
 
-Extracting subject and emotional words through e-commerce user evaluation
+Extracting subject and emotional words through e-commerce user evaluation.
 
-  model:LSTM
+  model
+
+	LSTM+CRF
   
-  included: 字典embedding+词典embedding。
+  included: 
+
+	字embedding
+	word embedding——Location characteristics in words.
+		Trie Tree is used to store emotional and keyword words.
+		五进制编码 → 十进制编码 → one hot embedding.
+

@@ -1,0 +1,31 @@
+recycle number is 0
+the validation accuracy is 0.93427the validation accuracy is 0.93629the validation accuracy is 0.94042the validation accuracy is 0.94544the validation accuracy is 0.94741the validation accuracy is 0.95327the validation accuracy is 0.95574recycle number is 1
+the validation accuracy is 0.96252the validation accuracy is 0.96443the validation accuracy is 0.96575the validation accuracy is 0.96687the validation accuracy is 0.96812the validation accuracy is 0.9687the validation accuracy is 0.96926recycle number is 2
+the validation accuracy is 0.9697the validation accuracy is 0.97045the validation accuracy is 0.97129the validation accuracy is 0.97175the validation accuracy is 0.97235the validation accuracy is 0.97253the validation accuracy is 0.97303recycle number is 3
+the validation accuracy is 0.97344the validation accuracy is 0.97361the validation accuracy is 0.97386the validation accuracy is 0.97495recycle number is 4
+the validation accuracy is 0.97508the validation accuracy is 0.97538the validation accuracy is 0.97579the validation accuracy is 0.97609the validation accuracy is 0.97615recycle number is 5
+the validation accuracy is 0.97677the validation accuracy is 0.97705recycle number is 6
+the validation accuracy is 0.97726the validation accuracy is 0.97774the validation accuracy is 0.97783the validation accuracy is 0.97799the validation accuracy is 0.97822recycle number is 7
+the validation accuracy is 0.97834the validation accuracy is 0.9787the validation accuracy is 0.97878recycle number is 8
+the validation accuracy is 0.97915the validation accuracy is 0.97971the validation accuracy is 0.97975the validation accuracy is 0.97976recycle number is 9
+the validation accuracy is 0.98011the validation accuracy is 0.98014recycle number is 10
+the validation accuracy is 0.98026the validation accuracy is 0.98032the validation accuracy is 0.98046recycle number is 11
+the validation accuracy is 0.98059recycle number is 12
+the validation accuracy is 0.98069the validation accuracy is 0.98105the validation accuracy is 0.98116recycle number is 13
+the validation accuracy is 0.98131the validation accuracy is 0.98146recycle number is 14
+the validation accuracy is 0.9815recycle number is 15
+the validation accuracy is 0.98153the validation accuracy is 0.98173the validation accuracy is 0.98186the validation accuracy is 0.98209recycle number is 16
+the validation accuracy is 0.98219the validation accuracy is 0.98252recycle number is 17
+recycle number is 18
+the validation accuracy is 0.98264recycle number is 19
+recycle number is 20
+recycle number is 21
+recycle number is 22
+recycle number is 23
+recycle number is 24
+recycle number is 25
+the validation accuracy is 0.98268recycle number is 26
+recycle number is 27
+recycle number is 28
+recycle number is 29
+the validation accuracy is 0.98282

@@ -1,0 +1,19 @@
+recycle number is 0
+the validation accuracy is 0.9771966666666667
+the validation accuracy is 0.9773433333333333
+the validation accuracy is 0.9789766666666667
+the validation accuracy is 0.9811633333333334
+the validation accuracy is 0.9832466666666667
+the validation accuracy is 0.9841633333333333
+the validation accuracy is 0.98546
+recycle number is 1
+the validation accuracy is 0.98665
+the validation accuracy is 0.9875266666666667
+the validation accuracy is 0.9879033333333334
+the validation accuracy is 0.9883866666666666
+the validation accuracy is 0.9888733333333334
+the validation accuracy is 0.98933
+recycle number is 2
+the validation accuracy is 0.9893933333333333
+the validation accuracy is 0.9898633333333333
+the validation accuracy is 0.9899833333333333
