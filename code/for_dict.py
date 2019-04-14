@@ -9,6 +9,7 @@ import time
 #reload(sys)
 #sys.setdefaultencoding('utf-8')
 
+
 class TrieTree(object):
 	def __init__(self):
 		self.tree = {}

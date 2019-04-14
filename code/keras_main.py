@@ -10,7 +10,7 @@ import json
 from sklearn.externals import joblib
 from keras_contrib.utils import save_load_utils
 
-os.environ["CUDA_VISIBLE_DEVICES"]="0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 from tensorflow.python.client import device_lib
 print(device_lib.list_local_devices())
 
